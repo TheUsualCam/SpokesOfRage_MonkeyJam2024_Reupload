@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &9213067798537766954
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5805282153899989938}
+  - component: {fileID: 164643774224591821}
+  m_Layer: 0
+  m_Name: Audio Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5805282153899989938
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9213067798537766954}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &164643774224591821
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9213067798537766954}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f0095d399ba6994d9a392fecc583808, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  MasterMixer: {fileID: 24100000, guid: b7473175bd5326744ab24ac27a5de08a, type: 2}
+  SfxSlider: {fileID: 0}
+  MusicSlider: {fileID: 0}
+  MasterSlider: {fileID: 0}
+  FirstSongToPlay: MainMenu
+  Sounds:
+  - Name: MainMenu
+    Clip: {fileID: 8300000, guid: 3cf49f123c4d2ff4eaee115f152e411e, type: 3}
+    Group: {fileID: -2320197096467025775, guid: b7473175bd5326744ab24ac27a5de08a, type: 2}
+    Volume: 0.25
+    Pitch: 1
+    Loop: 1
+    Source: {fileID: 0}
+  - Name: Level01
+    Clip: {fileID: 8300000, guid: 08806d23b246798419cfd4dbdbb86ad2, type: 3}
+    Group: {fileID: -2320197096467025775, guid: b7473175bd5326744ab24ac27a5de08a, type: 2}
+    Volume: 0.25
+    Pitch: 1
+    Loop: 1
+    Source: {fileID: 0}
+  - Name: Level02
+    Clip: {fileID: 8300000, guid: c43149882d405f34aa8a85ef1065e4a9, type: 3}
+    Group: {fileID: -2320197096467025775, guid: b7473175bd5326744ab24ac27a5de08a, type: 2}
+    Volume: 0.25
+    Pitch: 1
+    Loop: 1
+    Source: {fileID: 0}
+  - Name: Level03
+    Clip: {fileID: 8300000, guid: 37d775336e174b44791a06964a4a45ba, type: 3}
+    Group: {fileID: -2320197096467025775, guid: b7473175bd5326744ab24ac27a5de08a, type: 2}
+    Volume: 0.25
+    Pitch: 1
+    Loop: 1
+    Source: {fileID: 0}
+  - Name: Victory
+    Clip: {fileID: 8300000, guid: 9dab24d6f7549824da692a09db6bb31e, type: 3}
+    Group: {fileID: -2320197096467025775, guid: b7473175bd5326744ab24ac27a5de08a, type: 2}
+    Volume: 0.25
+    Pitch: 1
+    Loop: 1
+    Source: {fileID: 0}
+  - Name: Bonus Track
+    Clip: {fileID: 8300000, guid: 9121aac9c26c84d4caf8a6dc9f8c2d35, type: 3}
+    Group: {fileID: -2320197096467025775, guid: b7473175bd5326744ab24ac27a5de08a, type: 2}
+    Volume: 0.25
+    Pitch: 1
+    Loop: 1
+    Source: {fileID: 0}
+  - Name: Continue
+    Clip: {fileID: 8300000, guid: 37d775336e174b44791a06964a4a45ba, type: 3}
+    Group: {fileID: -2320197096467025775, guid: b7473175bd5326744ab24ac27a5de08a, type: 2}
+    Volume: 0.25
+    Pitch: 1
+    Loop: 1
+    Source: {fileID: 0}

@@ -1,0 +1,329 @@
+fileFormatVersion: 2
+guid: 7d4ed29965876b545ada3d7423503328
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MMonkey_Idle_Spritesheet_samplesize6_750px_0
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 100
+        width: 542
+        height: 698
+      alignment: 9
+      pivot: {x: 0.2787787, y: 0.053127714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3a1fc17669ca74295692efdde5d649
+      internalID: -1393107411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMonkey_Idle_Spritesheet_samplesize6_750px_1
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 105
+        width: 540
+        height: 695
+      alignment: 9
+      pivot: {x: 0.25233877, y: 0.047199473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4598b5cd28b44d4cbf07bb85618da1d
+      internalID: 1373282027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMonkey_Idle_Spritesheet_samplesize6_750px_2
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 100
+        width: 539
+        height: 689
+      alignment: 9
+      pivot: {x: 0.27693135, y: 0.050912045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968ae0d975c4855498a86077e02a1de6
+      internalID: 542725241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMonkey_Idle_Spritesheet_samplesize6_750px_3
+      rect:
+        serializedVersion: 2
+        x: 2311
+        y: 100
+        width: 548
+        height: 661
+      alignment: 9
+      pivot: {x: 0.29053804, y: 0.054539345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f104baf8d02760f48ad171620cc13223
+      internalID: 871826582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMonkey_Idle_Spritesheet_samplesize6_750px_4
+      rect:
+        serializedVersion: 2
+        x: 3041
+        y: 100
+        width: 556
+        height: 654
+      alignment: 9
+      pivot: {x: 0.302528, y: 0.049771532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23cc2ebd8bef184f976efe2c066579c
+      internalID: -1385573127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMonkey_Idle_Spritesheet_samplesize6_750px_5
+      rect:
+        serializedVersion: 2
+        x: 3776
+        y: 100
+        width: 560
+        height: 657
+      alignment: 9
+      pivot: {x: 0.2994825, y: 0.05372622}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820f865f5959566499cad5083670fbbb
+      internalID: 1995138563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMonkey_Idle_Spritesheet_samplesize6_750px_6
+      rect:
+        serializedVersion: 2
+        x: 4517
+        y: 100
+        width: 559
+        height: 666
+      alignment: 9
+      pivot: {x: 0.29912338, y: 0.054137036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39658ae9d45541f4f9741c7f0c22ee67
+      internalID: 1944048713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMonkey_Idle_Spritesheet_samplesize6_750px_7
+      rect:
+        serializedVersion: 2
+        x: 5262
+        y: 100
+        width: 550
+        height: 695
+      alignment: 9
+      pivot: {x: 0.28222656, y: 0.051198747}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab61d647203cf5499af7c9a70de40c8
+      internalID: -1955737089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MMonkey_Idle_Spritesheet_samplesize6_750px_0: -1393107411
+      MMonkey_Idle_Spritesheet_samplesize6_750px_1: 1373282027
+      MMonkey_Idle_Spritesheet_samplesize6_750px_2: 542725241
+      MMonkey_Idle_Spritesheet_samplesize6_750px_3: 871826582
+      MMonkey_Idle_Spritesheet_samplesize6_750px_4: -1385573127
+      MMonkey_Idle_Spritesheet_samplesize6_750px_5: 1995138563
+      MMonkey_Idle_Spritesheet_samplesize6_750px_6: 1944048713
+      MMonkey_Idle_Spritesheet_samplesize6_750px_7: -1955737089
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
